@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets >
+        <group name="rain">
+                <asset type="com.badlogic.gdx.audio.Sound" path="data/drop.wav" />
+                <asset type="com.badlogic.gdx.audio.Music" path="data/rain.mp3" />
+                <asset type="com.badlogic.gdx.graphics.Texture" path="data/bucket.png" />
+                <asset type="com.badlogic.gdx.graphics.Texture" path="data/droplet.png" />
+        </group>
+        <group name="scroll">
+                <asset type="com.badlogic.gdx.graphics.Texture" path="data/bg_under.png" />
+                <asset type="com.badlogic.gdx.graphics.Texture" path="data/bg_middle2.png" />
+                <asset type="com.badlogic.gdx.graphics.Texture" path="data/bg_over.png" />
+        </group>group>
+</assets>

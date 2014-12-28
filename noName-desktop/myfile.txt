@@ -1,0 +1,36 @@
+{
+rain: [
+	{
+		class: com.awkwardstudios.noname.Assets$Asset,
+		path: data/drop.wav,
+		name: "",
+		type: {
+			annotationType: null
+		}
+	},
+	{
+		class: com.awkwardstudios.noname.Assets$Asset,
+		path: data/rain.mp3,
+		name: "",
+		type: {
+			annotationType: null
+		}
+	},
+	{
+		class: com.awkwardstudios.noname.Assets$Asset,
+		path: data/bucket.png,
+		name: "",
+		type: {
+			annotationType: null
+		}
+	},
+	{
+		class: com.awkwardstudios.noname.Assets$Asset,
+		path: data/droplet.png,
+		name: "",
+		type: {
+			annotationType: null
+		}
+	}
+]
+}
